@@ -62,7 +62,7 @@ The application is deployed on **Hugging Face Spaces** using the Gradio framewor
 6. Wait for the build to complete (5-10 minutes). Once built, your app will be live at `https://huggingface.co/spaces/Kamesh14/Image-Caption-Generator`.
 
 ## Usage
-1. Visit the [Hugging Face Space](https://huggingface.co/spaces/Kamesh14/Image-Caption-Generator).
+1. Visit the [Hugging Face Space](https://huggingface.co/spaces/SakethGajavelli/Image-Caption-Generator).
 2. Upload an image in the "Upload Image" section (supported formats: PNG, JPEG, etc.).
 3. Select a vibe from the dropdown (e.g., "Happy", "Funny", "Cute") to set the tone of the caption.
 4. Optionally, enter an additional prompt in the "Additional Prompt (Optional)" field (e.g., "at the beach").
@@ -112,4 +112,4 @@ This project is open-source and available for use under the MIT License.
 - Inspired by the need for fun and engaging image captions!
 
 ## Contact
-For any queries or contributions, feel free to reach out via [GitHub](https://github.com/Kamesh1410) or [Hugging Face](https://huggingface.co/Kamesh14).
+For any queries or contributions, feel free to reach out via [GitHub](https://github.com/SakethGajavelli) or [Hugging Face](https://huggingface.co/SakethGajavelli).
