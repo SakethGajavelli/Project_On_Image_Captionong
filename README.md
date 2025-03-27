@@ -30,7 +30,7 @@ The **Image Caption Generator** is a deep learning-based web application that au
 If you want to run this project locally, follow these steps:
 
 1. **Clone the Repository**:
-git clone https://github.com/Kamesh1410/Image-Caption-Generator.git && cd Image-Caption-Generator
+git clone https://github.com/SakethGajavelli/Image-Caption-Generator.git && cd Image-Caption-Generator
 
 2. **Install Dependencies**:
 python -m venv venv && source venv/bin/activate && pip install -r requirements.
